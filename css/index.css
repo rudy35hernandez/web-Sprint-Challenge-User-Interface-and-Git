@@ -144,3 +144,31 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+/* my coding */
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px 0px;
+    
+}
+
+.header {
+    font-size: 32px;
+}
+
+.navselectors li{
+    display: inline-block;
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.photohere {
+    margin: 20px 100px 20px 360px;
+
+}   
