@@ -60,10 +60,13 @@ h1, h2, h3, h4, h5 {
     font-size: 18px;
     margin-bottom: 15px;
     font-family: 'Rubik', sans-serif;
+    font-weight: bold;
 }
 
 p {
     line-height: 1.4;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
 }
 
 .container {
@@ -298,3 +301,44 @@ a {
     margin: 20px 100px 20px 360px;
 
 }   
+
+
+hr {
+    border-top: 3px dotted;
+
+}
+
+.rowone {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.strategy {
+    margin: 10px;
+}
+
+.howwework {
+    margin: 10px;
+}
+
+.rowtwo {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.placeswework {
+    margin: 15px 10px 10px 10px;
+}
+
+.collaboration {
+    margin: 15px 10px 10px 10px;
+}
+
+.ending {
+    margin: 30px;
+}
+
+.footerend {
+    margin: 0 0 20px 0;
+}
