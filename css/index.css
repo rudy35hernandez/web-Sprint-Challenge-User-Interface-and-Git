@@ -342,3 +342,8 @@ hr {
 .footerend {
     margin: 0 0 20px 0;
 }
+
+.buttonone {
+    background-color: black;
+    color: white;
+}
